@@ -1,0 +1,4 @@
+
+scikit-learn==1.5.2
+numpy==2.1.1
+Flask==2.2.2
